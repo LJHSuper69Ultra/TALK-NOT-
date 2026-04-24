@@ -1,0 +1,17 @@
+{
+  "name": "kakaotalk-clone",
+  "version": "1.0.0",
+  "description": "2010년대 초반 카카오톡 스타일 채팅 애플리케이션",
+  "main": "client/main.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "electron": "electron .",
+    "dev": "electron . --dev"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}

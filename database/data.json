@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1777020665187,
+      "username": "domain",
+      "password": "1234"
+    },
+    {
+      "id": 1777020695794,
+      "username": "notperson",
+      "password": "notperson"
+    },
+    {
+      "id": 1777020919321,
+      "username": "death",
+      "password": "4242564"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1777020702979,
+      "sender": "domain",
+      "receiver": "notperson",
+      "text": "dare",
+      "timestamp": "2026-04-24T08:51:42.979Z",
+      "read": true
+    },
+    {
+      "id": 1777020706225,
+      "sender": "domain",
+      "receiver": "notperson",
+      "text": "dare",
+      "timestamp": "2026-04-24T08:51:46.225Z",
+      "read": true
+    },
+    {
+      "id": 1777020712291,
+      "sender": "notperson",
+      "receiver": "domain",
+      "text": "yakamashi",
+      "timestamp": "2026-04-24T08:51:52.291Z",
+      "read": true
+    },
+    {
+      "id": 1777020871875,
+      "sender": "domain",
+      "receiver": "notperson",
+      "text": "황천의 츠가이라는 애니를 아시나요",
+      "timestamp": "2026-04-24T08:54:31.875Z",
+      "read": true
+    },
+    {
+      "id": 1777020898067,
+      "sender": "notperson",
+      "receiver": "domain",
+      "text": "그럼 그 작가의 작품 \"강철의 연금술사\"를 아시나요",
+      "timestamp": "2026-04-24T08:54:58.067Z",
+      "read": true
+    },
+    {
+      "id": 1777021109569,
+      "sender": "domain",
+      "receiver": "death",
+      "text": "소울이터가 떠오른다",
+      "timestamp": "2026-04-24T08:58:29.569Z",
+      "read": true
+    },
+    {
+      "id": 1777021126898,
+      "sender": "death",
+      "receiver": "domain",
+      "text": "죽어라",
+      "timestamp": "2026-04-24T08:58:46.898Z",
+      "read": true
+    },
+    {
+      "id": 1777021131704,
+      "sender": "domain",
+      "receiver": "death",
+      "text": "ㅠㅠ",
+      "timestamp": "2026-04-24T08:58:51.704Z",
+      "read": false
+    }
+  ]
+}
